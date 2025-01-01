@@ -1,1 +1,1 @@
-# slider_image
+# img-slider-main
